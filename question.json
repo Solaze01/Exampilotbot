@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of Nigeria?",
+        "options": ["Lagos", "Abuja", "Port Harcourt", "Ibadan"],
+        "answer": "Abuja"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": ["Newton", "Einstein", "Tesla", "Edison"],
+        "answer": "Newton"
+    }
+]
